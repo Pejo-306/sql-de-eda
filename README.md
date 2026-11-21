@@ -66,3 +66,11 @@ Takeways and result sets are located inside files with SQL queries:
 - **Cloud trends**: Cloud providers (AWS and Azure) are becoming embedded into modern data engineering roles, with cloud platforms (Snowflake, Databricks) following closely
 - **Premium skills**: Infrastructure (Terraform, Kubernetes, Docker) and Big Data (Apache Spark) are associated with above average salaries
 
+## Credits
+
+- [Luke Barousse](https://www.lukebarousse.com) for his [SQL for Data Engineering Course](https://www.youtube.com/watch?v=UjhFbq4uU2Y)
+
+## License
+
+This project is distributed under the [MIT license](LICENSE).
+
